@@ -4068,6 +4068,9 @@ input[type=button].btn-block {
     padding-right: 0;
     padding-left: 0;
   }
+.navbar-brand img {
+  width: 180px;
+  }
 }
 @media (min-width: 576px) {
   .navbar-expand-sm {
